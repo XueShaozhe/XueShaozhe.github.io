@@ -1,0 +1,12 @@
+body{
+	font-family: sans-serif;
+}
+.logo{
+	width: 67px;
+	height: 67px;
+	background-image: url(../img/logo.jpg);
+	background-size: cover;
+	background-position: center;
+	display: inline-block;
+	vertical-align: middle;
+}
